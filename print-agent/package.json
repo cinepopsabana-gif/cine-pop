@@ -1,0 +1,17 @@
+{
+  "name": "cine-pop-print-agent",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Agente local que conecta Cine Pop (Vercel) con la impresora térmica ESC/POS RPT006 de la taquilla.",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "node-thermal-printer": "^4.4.4"
+  }
+}

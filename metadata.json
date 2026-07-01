@@ -1,0 +1,6 @@
+{
+  "name": "Cine Pop",
+  "description": "Una aplicación interactiva para la selección de asientos, compra de entradas y combos de comida en Cine Pop, con su única sala en Sabana de Torres, Santander.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
